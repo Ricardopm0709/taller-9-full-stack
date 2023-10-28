@@ -8,7 +8,7 @@
 
 
 <h2>punto 1: link de Figma</h2>
-<a href=https://www.figma.com/file/0zJZSrAl7abzaQrV1LfJUg/Rafael-Ricardo-Pinzon?type=design&node-id=5-256&mode=design&t=ExVgSy7tyoQu54uD-4>
+<a href="https://www.figma.com/file/0zJZSrAl7abzaQrV1LfJUg/Rafael-Ricardo-Pinzon?type=design&node-id=0%3A1&mode=design&t=WQGNgze1it6hbqWW-1">Link de Figma</a>
 
 <h2>punto 2: Diseño en HTML</h2>
 
@@ -18,6 +18,8 @@
 
 <h2>punto 5: Parrofos </h2>
 
-<h2>punto 6: </h2>
+<h2>punto 6: links </h2>v
 
-<h2>punto 7: </h2>
+<h2>punto 7 y 8: Navegacion</h2>
+
+<h2>punto 9: Tablas</h2>
