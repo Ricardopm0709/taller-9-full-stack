@@ -18,7 +18,7 @@
 
 <h2>punto 5: Parrofos </h2>
 
-<h2>punto 6: links </h2>v
+<h2>punto 6: links </h2>
 
 <h2>punto 7 y 8: Navegacion</h2>
 
