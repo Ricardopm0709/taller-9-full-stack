@@ -11,7 +11,7 @@
 <a href="https://www.figma.com/file/0zJZSrAl7abzaQrV1LfJUg/Rafael-Ricardo-Pinzon?type=design&node-id=0%3A1&mode=design&t=WQGNgze1it6hbqWW-1">Link de Figma</a>
 
 <h2>punto 2: Diseño en HTML</h2>
-<img src="./public/images/punto-2.png" alt="punto 2">
+<img src="./public/images/Punto-2.png" alt="punto 2">
 
 <h2>punto 3: Diseño con CSS</h2>
 
