@@ -3,11 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css"type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="./styles/common-styles.css">
+    <link rel="stylesheet" href="./styles/header-styles.css"> 
+    <link rel="stylesheet" href="./styles/banner-styles.css">
+    <link rel="stylesheet" href="./styles/section-1-styles.css"> 
+    <link rel="stylesheet" href="./styles/section-2-styles.css">
+    <link rel="stylesheet" href="./styles/footer-styles.css">
     <title>Page Desing</title>
 </head>
 <body>
     <header>
-     <div class="header_navigator">
+     <div class="header__navigator">
      <img src="./Public/Images/header-logo.png" alt="header-logo">
      <nav>
         <ul>
@@ -18,36 +25,40 @@
         </ul>
      </nav>
      </div>
-     <div class="header_setting"></div>
+     <div class="header__setting">
      <div class="lenguage">
         <img src="./Public/Images/header-world.png" alt="header-world">
         <span>Español</span>
      </div>
      <button>Ingresar</button>
+     </div>
     </header>
     <main>
         <section id="banner">
-        <div class="banner_info">
-         <div class="banner_texts">
+        <div class="banner__info">
+         <div class="banner__texts">
             <h1>Aprovecha la era digital, toma clases en linea</h1>
             <p>Toma los cursos man importantes de tecnologia con clases en linea. donde podras
                 tener acceso a contenido actualizado desde la comodidad de tu casa y a tu ritmo
             </p>
          </div>
-         <div class="banner_button">
-            <button>Saber mas</button>
-            <button>Planes</button>
+         <div class="banner__button">
+            <button class="button__orange">Saber mas</button>
+            <button class="button__transparent">Planes</button>
          </div>
         </div>
         <img src="./Public/Images/banner-online.png" alt="banner on line">
         </section>
+
+
         <section id="section-1">
-            <div section-1_info>
+            <div class="section-1_info">
                 <h2>Por que elegirnos a nosotros</h2>
                 <p>Somos una universidad en constante
                     actualizacion y nos gusta el cambio, te
                     enseñamos tecnologias contemporanias
                 </p>
+            </div>
                 <div class="section-1__card">
                   <img
                    src="./Public/Images/section1-education.png"
@@ -56,10 +67,9 @@
                    height="120px"
                    >
                    <h3>Virtualidad y educacion</h3>
-               
                 </div>
-                <div class="section-1__card">
-                    <h3>Elcance de objetivos</h3>
+                <div class="section-1__card section-1__card-down">
+                    <h3>Alcance de objetivos</h3>
                     <img 
                     src="./Public/Images/section1-goals.png"
                      alt="goals"
@@ -74,10 +84,12 @@
                       width="120px"
                       height="120px"
                       >
-                      <h3>CLases inclusivas</h3>
+                      <h3>Clases inclusivas</h3>
                      </div>
             </div>
         </section>
+
+
         <section id="section-2">
             <div class="section-2__info">
              <img
@@ -88,23 +100,24 @@
               >
               <div>
                 <h2>Brindamos herramientas para que tu aprendizaje</h2>
-                <h2>sea efectivo</h2>
+                <h2 class="title__pink">sea efectivo</h2>
                 <p>
                     Las herramientas digitales son nuestras aliadas
                     y aprovechamos cada una de estas para brindarte
                     la mejor exteriencia
                 </p>
-                <button>Saber mas</button>
+                <button class="button__orange">Saber mas</button>
               </div>
+            </div>
              <div class="section-2__info">
                 <div>
-                <h2>Educacion pensando en</h2>
+                <h2 class="title__pink">Educacion pensando en</h2>
                 <h2>objetivos alcanzados</h2>
                 <p>
                     Esimportante para nosotros que las metas de cada
                     uno de nuestros estudiantes sean alcanzados
                 </p>
-                <button>Saber mas</button> 
+                <button class="button__orange">Saber mas</button> 
                 </div>
                 <img src="./Public/Images/section2-goals.png"
                  alt="goals"
@@ -114,9 +127,11 @@
                  </div>
         </section>
     </main>
+    
     <footer id="footer">
      <div class="footer__info">
-     <img src="./Public/Images/footer-logo.png"
+     <img
+      src="./Public/Images/footer-logo.png"
       alt="logo"
       width="200px"
       height="175px"
@@ -134,8 +149,8 @@
          <button>Subscribirse</button>
        </form>
      </div>
-     <div class="footer__list"></div>
-     <table>
+     <div class="footer__list">
+       <table>
         <thead>
      <tr>
         <th>Plataforma</th>
@@ -147,7 +162,7 @@
          <tr>
             <td><a href="">Planestic</a></td>
             <td><a href="">Como puedo inscribirme?</a></td>
-            <td><a href=""></a>+57 300 203040</td>
+            <td><a href="">+57 300 203040</a></td>
          </tr>
          <tr>
             <td><a href="">Moodle</a></td>
@@ -161,10 +176,12 @@
          </tr>
          <tr>
             <td><a href="">Administracion</a></td>
-            <td><a href="">Que convenios existen?</a></td>
+            <td><a href="">Que convenios existen?</a>
+            </td>
          </tr>
         </tbody>
      </table>
+     </div>
     </footer>
     
 </body>
