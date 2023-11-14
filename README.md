@@ -32,3 +32,5 @@ alt="punto 6">
 alt="punto 7 y 8">
 
 <h2>punto 9: Tablas</h2>
+<img src="./public/images/punto-9.png"
+alt="punto 9">

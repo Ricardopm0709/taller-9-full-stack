@@ -1,22 +1,21 @@
-#tabla {
-    display:flex ;
+table {
+    width: 800px;
+    border-collapse: collapse;
     justify-content: space-between;
     background-color: yellow;
 }
 
-.tabla__1 {
-    width: 100%;
-}
-
-table {
-    text-align: center;
-}
-
 th {
+    border: 1px dotted black;
+    padding: 8px;
     text-align:center;
+    color: red;
     
 }
 
 td {
+    border: 1px dotted black;
+    padding: 8 px;
     text-align: left;
+
 }
