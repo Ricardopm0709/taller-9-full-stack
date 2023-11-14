@@ -20,9 +20,15 @@
 <img src="./public/images/punto-4.png" alt="punto 4"> 
 
 <h2>punto 5: Parrofos </h2>
+<img src="./public/images/punto-5.png"
+alt="punto 5">
 
 <h2>punto 6: links </h2>
+<img src="./public/images/punto-6.png"
+alt="punto 6">
 
 <h2>punto 7 y 8: Navegacion</h2>
+<img src="./public/images/punto-7-8.png"
+alt="punto 7 y 8>
 
 <h2>punto 9: Tablas</h2>

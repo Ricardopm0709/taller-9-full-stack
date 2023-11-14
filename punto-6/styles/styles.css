@@ -1,0 +1,13 @@
+.linea-a {
+   color: yellow; 
+   text-decoration: underline;
+}
+
+.linea-m {
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+.centrado {
+    text-align: center;
+}

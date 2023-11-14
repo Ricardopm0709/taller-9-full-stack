@@ -1,0 +1,22 @@
+#tabla {
+    display:flex ;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.tabla__1 {
+    width: 100%;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    text-align:center;
+    
+}
+
+td {
+    text-align: left;
+}

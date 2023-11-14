@@ -1,0 +1,21 @@
+.avisos {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+
+}
+
+#section-1 {
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border-radius: 25px;
+    background-color: rgb(178, 71, 224);
+}
+

@@ -1,3 +1,23 @@
-u {
-    color: lime;
+.verde {
+    color: limegreen;
+}
+
+.rojo {
+    color: red;
+} 
+
+.lineas {
+    text-decoration: line-through;
+}
+
+.tamaño {
+    font-size: 40px;
+}
+
+.blue{
+    color: blue;
+}
+
+.red {
+    color: red;
 }
